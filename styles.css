@@ -606,6 +606,10 @@
     padding-bottom: 10px;
   }
 
+  .fbutton:hover {
+    background-color: #813e8e;
+  }
+
   .fbutton:active {
     background-color: #3e8e41;
   }
@@ -957,7 +961,10 @@
     background: #ff6b00;
   }
 
-
+  .buttonw:hover {
+    background: #fff5e1;
+    transition: 0.7s;
+  }
 
   .seep {
     font-family: 'Inter', sans-serif;
@@ -1030,6 +1037,10 @@
     list-style-type: none;
   }
 
+  .butabout:hover {
+    background: #fff5e1;
+    transition: 0.7s;
+  }
 
   .butabout li a {
     text-decoration: none;
@@ -1178,8 +1189,35 @@
     flex-direction: column;
   }
 
+  .worka li:hover {
+    background: #fff5e1;
+    transition: 0.7s;
+  }
 
- 
+  .card5 li:hover {
+    background: #fff5e1;
+    transition: 0.7s;
+  }
+
+  .card4 li:hover {
+    background: #fff5e1;
+    transition: 0.7s;
+  }
+
+  .card3 li:hover {
+    background: #fff5e1;
+    transition: 0.7s;
+  }
+
+  .card2 li:hover {
+    background: #fff5e1;
+    transition: 0.7s;
+  }
+
+  .card6 li:hover {
+    background: #fff5e1;
+    transition: 0.7s;
+  }
 
   .card6 li a {
     text-decoration: none;
@@ -1228,6 +1266,10 @@
     height: 48px;
   }
 
+  .fbutton:hover {
+    background: #fff5e1;
+    transition: 0.7s;
+  }
 
   .btext {
     text-decoration: none;
@@ -1257,11 +1299,20 @@
     margin-right: 2%;
   }
 
+  .card1:hover {
+    transform: scale(1.5);
+  }
+
   .card1button {
     width: 100%;
     margin-top: 377px;
     height: 58px;
     background: #f55800;
+  }
+
+  .card1button:hover {
+    background: #fff5e1;
+    transition: 0.7s;
   }
 
   .card1button ins {
@@ -1284,6 +1335,7 @@
     padding-left: 10px;
     padding-top: 147px;
   }
+
   .card3h {
     width: 337px;
     height: 38px;
@@ -1394,7 +1446,6 @@
     margin-left: 20px;
   }
 
-
   .card3 li a {
     text-decoration: none;
     font-family: 'Inter', sans-serif;
@@ -1474,6 +1525,4 @@
     padding-top: 192px;
     margin-left: 20px;
   }
-
- 
 }
