@@ -1309,7 +1309,7 @@
     height: 58px;
     background: #f55800;
   }
-
+/* Add button transitions */
   .card1button:hover {
     background: #fff5e1;
     transition: 0.7s;
